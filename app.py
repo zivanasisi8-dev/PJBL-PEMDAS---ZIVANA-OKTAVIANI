@@ -6,7 +6,7 @@ st.set_page_config(
 )
 
 with st.sidebar:
-    st.image(r"C:\Users\advan\Downloads\pjbl.jpeg", width=80)
+    st.image("logomtk.jpeg", width=80)
 
     st.title("Bangun Datar")
 
